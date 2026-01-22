@@ -1,0 +1,11 @@
+h1 {
+    color: #fff;
+    display: inline-block;
+    background-color: red;
+}
+
+div {
+    border: 2px solid black;
+    max-width: 250px;
+    max-height: 250px;
+}
